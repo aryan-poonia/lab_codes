@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aryan/Desktop/My codes/handson2'
+relocations:     []
+...
